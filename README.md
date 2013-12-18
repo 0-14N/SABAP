@@ -2,12 +2,11 @@ SABAP
 =====
 
 Static ARM Binary Analysis Platform
-=====
 
-Why?
+1. Why?
 
-Although Vine and BAP are awesome static binary analysis platfomrs, they don't support ARM well.
-=====
+Although _Vine_ and _BAP_ are awesome static binary analysis platfomrs, they don't support ARM well.
 
-Libraries SABAP use:
-*** VEX
+2. Libraries SABAP use:
+	* VEX
+
